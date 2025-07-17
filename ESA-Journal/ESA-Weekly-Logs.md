@@ -13,4 +13,4 @@ I outlined my roadmap, picked my journaling tool, and began building the structu
 - Begin weekly journal updates
 - Curate older GitHub projects for relevance and tagging
 
-I'm proud of the shift - and I'm ready to keep waling.
+I'm proud of the shift - and I'm ready to keep walking.
