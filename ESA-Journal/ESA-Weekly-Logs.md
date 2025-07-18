@@ -1,16 +1,25 @@
-## Week 1 - Entering Orbit
+# 🌌 ESA Journal Index – by Anna Susel
 
-> "Journey into the unknown, but for the first time in a long time, I feel excited."
+Welcome to my ESA-aligned learning journal. This space tracks weekly reflections, milestones, and technical progress as I explore career paths in space systems from Ireland.
 
-This week I made a choice: not just to explore ESA as a career, but to believe it's possible.
-I outlined my roadmap, picked my journaling tool, and began building the structure for my portfolio. I don't know where I'll land - but I'm finally moving.
+---
 
-## Micro-Wins:
-- Defined my GitHub layout and began AnnaSpaceHub repo
-- Chose Reflection for personal journaling
+## 🗂 Weekly Entries
 
-## Next Steps:
-- Begin weekly journal updates
-- Curate older GitHub projects for relevance and tagging
+- [Week 1 – Mapping My Orbit: ESA Events & Ireland Career Horizon](./Week1-Entering-Orbit.md)
 
-I'm proud of the shift - and I'm ready to keep walking.
+
+---
+
+## 🌠 Dream File
+
+- [Dream File – Hopes, Missions & Micro-Visions](./Dream-File.md)
+
+---
+
+## ✨ About
+
+This journal is part of my GitHub portfolio as a space systems explorer. It reflects my goal to contribute to ESA through thoughtful engineering, AI, and autonomous systems design — from Limerick to orbit.
+
+> “Journey into the unknown, but for the first time in a long time, I feel excited.”  
+> _– Anna Susel_
